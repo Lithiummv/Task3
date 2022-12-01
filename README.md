@@ -1,2 +1,2 @@
 # task3
-RockPaperScissors
+Игра RockPaperScissors. Itransition.
